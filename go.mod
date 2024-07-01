@@ -2,7 +2,7 @@ module github.com/dmdhrumilmistry/gofilecheck
 
 go 1.22.4
 
-require github.com/gofiber/fiber/v2 v2.52.4
+require github.com/gofiber/fiber/v2 v2.52.5
 
 require golang.org/x/net v0.25.0 // indirect
 
