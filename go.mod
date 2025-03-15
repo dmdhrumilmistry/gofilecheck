@@ -1,10 +1,11 @@
 module github.com/dmdhrumilmistry/gofilecheck
 
 go 1.22.4
+toolchain go1.23.7
 
 require github.com/gofiber/fiber/v2 v2.52.5
 
-require golang.org/x/net v0.25.0 // indirect
+require golang.org/x/net v0.36.0 // indirect
 
 require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
@@ -18,5 +19,5 @@ require (
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasthttp v1.51.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
-	golang.org/x/sys v0.20.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
 )
