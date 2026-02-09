@@ -4,7 +4,7 @@ go 1.23.0
 
 toolchain go1.24.1
 
-require github.com/gofiber/fiber/v2 v2.52.9
+require github.com/gofiber/fiber/v2 v2.52.11
 
 require golang.org/x/net v0.38.0 // indirect
 
